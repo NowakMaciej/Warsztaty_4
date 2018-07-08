@@ -1,0 +1,32 @@
+.titles {
+	background-color: #f2f2f2;
+	cursor: pointer;
+}
+
+.hide {
+	display: none;
+}
+
+input {
+	margin: 3px;
+}
+
+.button {
+	margin: 3px;
+	background: #0066A2;
+	color: white;
+	border-color: #0066A2;
+}
+
+#newBook {
+	display: inline-block;
+	background-color: #f2f2f2;
+}
+
+.bookEntry {
+	width: 500px;
+	background-color: #f2f2f2;
+	border: 1px solid black;
+	padding: 3px;
+	margin: 5px;
+}
